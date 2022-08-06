@@ -1,5 +1,9 @@
 
 # Web-Myntra-Community
+## Tech Stack 
+### HTML5, CSS, JavaScript, Python, PHP, Material UI 
+
+
 
 ## Functionality of MyntraCommunity
 - Bot
